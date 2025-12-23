@@ -9,3 +9,5 @@
 ## 04 Exercise 04 ![](D:\dugsiiye\Dugsiiye-React-Exercise\exercise-4)
 
 ## 05 Exercise 05 ![](D:\dugsiiye\Dugsiiye-React-Exercise\exercise-5)
+
+## 06,7 Exercise 06,7 ![](D:\dugsiiye\Dugsiiye-React-Exercise\exercise-6-7)

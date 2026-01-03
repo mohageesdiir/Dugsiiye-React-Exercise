@@ -19,3 +19,5 @@
 ## 10 Exercise 10 ![](D:\dugsiiye\Dugsiiye-React-Exercise\exercise-10)
 
 ## 11 Exercise 11 ![](D:\dugsiiye\Dugsiiye-React-Exercise\exercise-11)
+
+## 12 Exercise 12 ![](D:\dugsiiye\Dugsiiye-React-Exercise\exercise-12)

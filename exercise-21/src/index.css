@@ -1,0 +1,9 @@
+@import "tailwindcss";
+body {
+  font-family: "Roboto Condensed", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 3% auto;
+  background-color: rgba(128, 128, 128, 0.1);
+}

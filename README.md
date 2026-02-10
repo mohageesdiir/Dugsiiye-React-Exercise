@@ -43,3 +43,6 @@
 ## 22 Exercise 22 ![](D:\dugsiiye\Dugsiiye-React-Exercise\exercise-22)
 
 ## 23 Exercise 23 ![](D:\dugsiiye\Dugsiiye-React-Exercise\exercise-23)
+
+## 24 Exercise 24 ![](D:\dugsiiye\Dugsiiye-React-Exercise\exercise-24)
+
